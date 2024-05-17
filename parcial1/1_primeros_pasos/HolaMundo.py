@@ -1,10 +1,10 @@
-#resultado=3+7
+resultado=3+7
 
-#print("Hola Mundo")
+print("Hola Mundo")
 
-#a=30
+a=30
 
-#c=3+a
+c=3+a
 
-#print(c)
+print(c)
 
