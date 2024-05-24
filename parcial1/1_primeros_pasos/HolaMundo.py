@@ -7,4 +7,5 @@ a=30
 c=3+a
 
 print(c)
-
+#prueba de github
+x=30
