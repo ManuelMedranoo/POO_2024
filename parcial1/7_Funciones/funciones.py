@@ -35,10 +35,10 @@ llamar
 # print(sumaNumeros2())
 
  #funcion que  recibe parametros y no regresa valor
-# def sumaNumeros3(n1,n2):
+def sumaNumeros3(n1,n2):
    
-#     suma=n1+n2
-#     print(f"{n1}+{n2}={suma}")
+    suma=n1+n2
+    print(f"{n1}+{n2}={suma}")
 
 
 # n1=int(input("Numero # 1:"))
@@ -47,15 +47,15 @@ llamar
 
 
  #funcion que  recibe parametros y  regresa valor
-def sumaNumeros4(n1,n2):
+# def sumaNumeros4(n1,n2):
    
-    suma=n1+n2
-    return f"{n1}+{n2}={suma}"
+#     suma=n1+n2
+#     return f"{n1}+{n2}={suma}"
 
 
-n1=int(input("Numero # 1:"))
-n2=int(input("Numero # 2:"))
-print(sumaNumeros4(n1,n2))
+# n1=int(input("Numero # 1:"))
+# n2=int(input("Numero # 2:"))
+# print(sumaNumeros4(n1,n2))
 
 #crear un programa que solicite a traves de una funcion la siguiente 
 #informacion Nombre del Paciente Edad Estatura Tipo de sangre Utilizar lo 4 tipos de funciones 
