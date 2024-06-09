@@ -7,7 +7,7 @@ from funciones import InsertarPeliculas,EliminarPeliculas,Consultar,Actualizar,E
 import os
 opcion=True
 while opcion:
-    print("\n\t..::: CINCEMEX :::... \n 1.- Agregar \n 2.- Eliminar \n 3.- Consultar \n 4.- Actualizar \n 5.- SALIR ")
+    print("\n\t..::: Cinelexx :::... \n 1.- Agregar \n 2.- Eliminar \n 3.- Consultar \n 4.- Actualizar \n 5.- SALIR ")
     opcion=input("\t Elige una opción: ").upper();
     os.system("cls")
     if opcion in ("1","AGREGAR","2","ELIMINAR","3","CONSULTAR","4","ACTUALIZAR"):

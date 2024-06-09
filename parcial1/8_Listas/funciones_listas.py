@@ -27,3 +27,18 @@ numeros.remove(100)
 print(numeros)
 numeros.pop(2)
 print(numeros)
+#dar la vuelta a los elementos de una lista
+print(varios)
+varios.reverse()
+print(varios)
+#buscar un valor un dato dentro de una lista
+encontro="Brasil" in paises
+print(encontro)
+#Vaciar o borrar el contenido de una lista
+print(paises)
+paises.clear()
+print(paises)
+#unir listas
+print(varios)
+varios.extend(numeros)
+print(varios)
